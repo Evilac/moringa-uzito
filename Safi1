@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--This css code is an internal line css code-->
+  <style>
+  body {
+    background-color: white;
+}
+h1 {
+    color: blue;
+    padding: 20px;
+}
+h2{color: rgb(0, 232, 15)}
+h3{color:rgb(0, 184, 10)}
+/*this is an id css element usisahau*/
+
+#boys{background-color: pink;
+  outline-style: outset;
+  max-block-size: 75%;
+}
+#cat{background-color: yellow;
+    outline-style: groove;
+}
+/*this is calling the class selector usisahau*/
+.song-lyrics{background-color: pink;border-right: 30}
+</style>
+  <title>
+Kitu Safi
+</title>
+<body>
+  <h3>The Meow Species</h3>
+  <p id="boys">Something fresh and clean for your boys</p>
+  <p>Wanna see something fluffy and scary?<br>Well feast your eyes on this beasts</p>
+  <h1>The Cat</h1>
+
+<img src="https://c.files.bbci.co.uk/41CF/production/_109474861_angrycat-index-getty3-3.jpg" alt="Girl in a jacket" width="500" height="600">
+<article>
+  <header>
+    <h2>Cats and More Cats</h2>
+    <p id="cat">Do you see that.<br>That cat is the best you can ever get.
+      <br>Its full of colors.<br>Its a bit angry dont come to close it might just bite.
+      <br>I am just trying to fill out this page</p>
+      <h4>totally unrelated song just for good measure</h4>
+      <!--This to show the utilization of classes-->
+    <p class="song-lyrics">Little Bunny Foo Foo, <br>
+I don't want to see you <br>
+scooping up the field mice <br>
+and bopping them on the head!</p>
+<p class="song-lyrics">And down came the Good Fairy <br>
+And she said <br>
+"Little bunny Foo Foo <br>
+I don't like you're attitude <br>
+Scooping up the field mice <br>
+And bopping 'em on the head" <br>
+</p>
+  </header>
+  <p class="song-lyrics">Meow Meow Meow, why do cats do this so much.</p>
+  <a href="https://pets.webmd.com/cats/guide/cats-excessive-meowing#1">Want to know why cats meow</a>
+</article>
+</body>
+</head>
+</html>
