@@ -1,4 +1,4 @@
-# {Portfolio}
+# Portfolio
 #### {Personal portfolio}, {2021}
 #### By **{Jeremy Masaku}**
 ## Description
